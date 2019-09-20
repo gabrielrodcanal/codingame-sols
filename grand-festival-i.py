@@ -1,3 +1,5 @@
+# STATEMENT: https://www.codingame.com/training/medium/the-grand-festival---i
+
 import sys
 import math
 
